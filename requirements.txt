@@ -1,0 +1,12 @@
+fastapi==0.115.12
+mtcnn==1.0.0
+uvicorn==0.34.0
+python-multipart==0.0.19
+transformers==4.51.2
+huggingface_hub==0.30.2
+omegaconf==2.3.0
+Pillow==11.2.1
+opencv-python==4.11.0.86
+python-dotenv
+fvcore==0.1.5.post20221221
+tensorflow==2.18.0

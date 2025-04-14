@@ -1,0 +1,13 @@
+.env
+.idea/
+app/__pycache__
+app/core/config/__pycache__
+app/routers/__pycache__
+app/routers/development/__pycache__
+app/startup/__pycache__
+app/utils/__pycache__
+app/utils/face/__pycache__
+app/utils/face/alignment/__pycache__
+app/utils/face/embedding/__pycache__
+app/utils/face/recognition/__pycache__
+app/utils/image/__pycache__
