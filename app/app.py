@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 # Define route
-from .routers.development import (basic_ekyc_router,
+from app.routers.development import (basic_ekyc_router,
                                   preview_router)
 # Define startup
 from .startup import init_models
